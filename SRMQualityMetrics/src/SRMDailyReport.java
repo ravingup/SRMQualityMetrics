@@ -100,7 +100,7 @@ public class SRMDailyReport {
         scoreCard.setConfluenceSpace(ArgumentRegistry.getRegistry().get(
                      "-confluenceSpace", "SRM"));
         scoreCard.setConfluencePageId(ArgumentRegistry.getRegistry().get(
-                     "-confluencePageId", "174506618"));
+                     "-confluencePageId", "174502462"));
         scoreCard.setConfluencePageTitle(ArgumentRegistry.getRegistry().get(
                      "-confluencePageTitle", "SRM Daily Quality Scorecard"));
         scoreCard.createScorecardAndPostToConfluence();
