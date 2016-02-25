@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: oracle.eloqua.standalone.SRMDailyQualityScorecard
+
+Name: org/apache/commons/httpclient
+Implementation-Vendor: Apache Software Foundation
+Implementation-Title: org.apache.commons.httpclient
+Implementation-Version: 3.1
+Implementation-Vendor-Id: org.apache
+Specification-Vendor: Apache Software Foundation
+Specification-Title: Jakarta Commons HttpClient
+Specification-Version: 3.1
+Extension-name: org.apache.commons.httpclient
+X-Compile-Source-JDK: 1.2
+X-Compile-Target-JDK: 1.2
+
+Name: org.apache.log4j
+Implementation-Vendor: "Apache Software Foundation"
+Implementation-Title: log4j
+Implementation-Version: 1.2.16
+
